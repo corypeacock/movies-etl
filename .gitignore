@@ -34,7 +34,7 @@ MANIFEST
 config.py
 
 # resources folder
-/resources/
+resources/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
